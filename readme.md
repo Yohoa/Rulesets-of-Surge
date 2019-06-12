@@ -1,7 +1,6 @@
 # Surge 代理规则小片段
 
-这个仓库搜集了我用自己用到的适用于Surge 的一些规则片段。
-
+这个仓库搜集了我用自己用到的适用于Surge 的一些规则清单🧾。
 
 ## 已有的规则片段
 
@@ -24,3 +23,5 @@ RULE-SET,https://raw.githubusercontent.com/Yohoa/{你想要订阅的规则清单
 ```
 
 _Enjoy! _
+
+<img src="./img/icon.jpg" width = "300" height = "300" alt="Surge" align=center />
