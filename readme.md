@@ -3,16 +3,15 @@
 这个仓库搜集了我用自己用到的适用于Surge 的一些规则片段。
 
 
-### 已有的规则片段
+## 已有的规则片段
 
-文件名 | 说明 
+文件 | 说明 
 ------------- | -------------
-
-Academic.conf | 这些规则适用于学术机构已经购买了某些期刊商的版权，且需要直连才可以访问的情况。 
-
+[Academic.conf](Academic.conf) | 这些规则适用于学术机构已经购买了某些期刊商的版权，且需要直连才可以访问的情况。 
 
 
-### 如何使用
+
+## 如何使用
 
 形如`*.conf` 的规则清单适用于全部版本的Surge。
 
@@ -21,7 +20,7 @@ Academic.conf | 这些规则适用于学术机构已经购买了某些期刊商�
 而Surge ，由于`RULE-SET` 特性的加入，你可以通过加入一行RULE-SET 规则订阅的办法来使用这个仓库的中的配置清单，大概像下面这样：
 
 ```
-RULE-SET,https://raw.githubusercontent.com/Yohoa/{规则清单}, 学术代理
+RULE-SET,https://raw.githubusercontent.com/Yohoa/{你想要订阅的规则清单}, {你希望它走的通道；譬如，「学术代理」}
 ```
 
-Enjoy! 
+_Enjoy! _
