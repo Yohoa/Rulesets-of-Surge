@@ -7,6 +7,7 @@
 文件 | 说明 
 ------------- | -------------
 [Academic.conf](Academic.conf) | 这些规则适用于学术机构已经购买了某些期刊商的版权，且需要直连才可以访问的情况。 
+[Apple.conf](Apple.conf) | Apple Service，苹果的服务。 
 
 
 
@@ -22,6 +23,6 @@
 RULE-SET,https://raw.githubusercontent.com/Yohoa/{你想要订阅的规则清单}, {你希望它走的通道；譬如，「学术代理」}
 ```
 
-_Enjoy! _
+_Enjoy!_
 
 <img src="./img/icon.jpg" width = "300" height = "300" alt="Surge" align=center />
