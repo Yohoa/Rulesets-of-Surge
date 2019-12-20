@@ -17,7 +17,7 @@
 
 对于Surge 2，可以通过「复制粘贴」的方式来将这个仓库里的规则清单加入你的配置文件中。
 
-而Surge ，由于`RULE-SET` 特性的加入，你可以通过加入一行RULE-SET 规则订阅的办法来使用这个仓库的中的配置清单，大概像下面这样：
+而Surge ，由于`RULE-SET` 特性的加入，你可以通过加入一行RULE-SET 规则订阅的办法来使用这个仓库的中的配置清单，大概像下面这样，你直接拷贝过去用好了🤓：
 
 ```
 RULE-SET,https://raw.githubusercontent.com/Yohoa/Academic.conf, 学术代理
