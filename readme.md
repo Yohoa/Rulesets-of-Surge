@@ -20,7 +20,8 @@
 而Surge ，由于`RULE-SET` 特性的加入，你可以通过加入一行RULE-SET 规则订阅的办法来使用这个仓库的中的配置清单，大概像下面这样：
 
 ```
-RULE-SET,https://raw.githubusercontent.com/Yohoa/{你想要订阅的规则清单}, {你希望它走的通道；譬如，「学术代理」}
+RULE-SET,https://raw.githubusercontent.com/Yohoa/Academic.conf, 学术代理
+RULE-SET,https://raw.githubusercontent.com/Yohoa/Apple.conf, Apple Services
 ```
 
 _Enjoy!_
