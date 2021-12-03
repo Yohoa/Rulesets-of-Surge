@@ -2,13 +2,17 @@
 
 这个仓库搜集了我用自己用到的适用于Surge 的一些规则清单🧾。
 
+## 最近更新
+
+加入了URL Rewrite的规则。
+
 ## 已有的规则片段
 
 文件 | 说明 
 ------------- | -------------
 [Academic.conf](Academic.conf) | 这些规则适用于学术机构已经购买了某些期刊商的版权，且需要直连才可以访问的情况。 
 [Apple.conf](Apple.conf) | Apple Service，苹果的服务。 
-
+[URL_Rewrite.md](URL_Rewrite.md) | URL_Rewrite规则。
 
 
 ## 如何使用
